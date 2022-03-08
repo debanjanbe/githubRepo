@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modified in mybranch
+=======
+This is first. 
+>>>>>>> 1c74bb3c0031fd7cf5edb0a8bb09cd5be64c50ff
